@@ -8,3 +8,7 @@ This is a sample readme file for our GitHub Example Repo. We are learning Markdo
 
 ## Link 
 [I'm an inline-style link - shenz708](https://www.google.com)
+
+1. Item one 
+2. Item two 
+3. Item three
